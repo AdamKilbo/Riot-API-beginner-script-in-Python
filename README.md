@@ -7,6 +7,8 @@ This was learned by watching the following video: https://youtu.be/0NycEiHOeX8
 
 Goals:
 
+Practice Python
+
 Learn how to use an API, and create a script that can pull information
 
 Learn about JSON and how to read/parse JSON dictionaries.
