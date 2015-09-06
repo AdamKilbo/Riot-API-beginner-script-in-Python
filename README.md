@@ -13,8 +13,7 @@ Learn how to use an API, and create a script that can pull information
 
 Learn about JSON and how to read/parse JSON dictionaries.
 
-
-instructions:
+Instructions:
 
 To run this program, move to its directory and type 'python2.7 main.py'
 
