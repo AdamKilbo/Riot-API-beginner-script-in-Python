@@ -2,9 +2,6 @@
 
 A small script to access some information from the Riot API for League of Legends.
 
-This was learned by watching the following video: https://youtu.be/0NycEiHOeX8
-
-
 Goals:
 
 Practice Python
@@ -25,4 +22,4 @@ This program needs the PiP and Responses add-ons for python to work. Python 2.7 
 
 Credit:
 
-Credit goes to the youtube video linked above and its creator. Some minor modifications to the code by Adam Kilbo
+Credit goes to this youtube video and its creator for introducing the basics of using the API: https://youtu.be/0NycEiHOeX8. Some credit goes to my coding friends for convincing me not to undertake this project in C++. Some minor modifications to the code by me.
